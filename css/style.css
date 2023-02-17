@@ -62,7 +62,7 @@ body {
 /* line 63, style.less */
 .section-slide__banBig {
   grid-area: banBig;
-  background: url('/img/banners/banBig.png') no-repeat;
+  background: url('img/banners/banBig.png') no-repeat;
   background-size: cover;
   grid-row-start: 1;
   grid-column-start: 3;
@@ -91,7 +91,7 @@ body {
 /* line 92, style.less */
 .section-slide__banSm1 {
   grid-area: banSmall-1;
-  background: url('/img/banners/banSm-1.jpg') no-repeat;
+  background: url('img/banners/banSm-1.jpg') no-repeat;
   background-size: contain;
   grid-row-start: 2;
   grid-column-start: 3;
@@ -108,7 +108,7 @@ body {
 /* line 109, style.less */
 .section-slide__banSm2 {
   grid-area: banSmall-1;
-  background: url(/img/banners/banSm-2.png) no-repeat, #2a3644;
+  background: url('img/banners/banSm-2.png') no-repeat, #2a3644;
   background-size: contain;
   grid-row-start: 2;
   grid-column-start: 4;
